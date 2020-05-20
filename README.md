@@ -18,5 +18,4 @@ Code was written in `python v3.7.3` using the module [`LandLab`](https://pypi.or
 
 ### Data
 
-`higher_order_geochemistry.csv` contains the geochemical composition of higher-order river sediments sampled at 67 points across the Cairngorms and the surrounding region. Locality numbers and coordinates are provided.   
-
+`higher_order_geochemistry.csv` contains the geochemical composition of higher-order river sediments sampled at 67 points across the Cairngorms and the surrounding region. Data is provided in mg/kg. Zero values and 'below-detection-limit' values were set to `NA`. The suffix `_rep_avg` indicates that the sample's values were by taking the arithmetic mean of two replicates. The geochemical variability between replicates was found to be negligible. Locality numbers and sample site coordinates are provided.
