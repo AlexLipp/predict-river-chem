@@ -4,7 +4,7 @@ This repository contains supporting code and data for the publication "River sed
 
 This repository contains 4 files.
 
-## Requisites 
+### Requisites 
 
 Code was written in `python v3.7.3` using the module [`LandLab`](https://pypi.org/project/landlab/) `v1.9.0`. 
 
