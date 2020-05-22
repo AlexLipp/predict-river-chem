@@ -2,6 +2,8 @@
 
 This repository contains supporting code and data for the publication "River sediment geochemistry as a conservative mixture of source regions: Observations and predictions from the Cairngorms, UK" (under review)
 
+Archived at point of submission at: [![DOI](https://zenodo.org/badge/265591554.svg)](https://zenodo.org/badge/latestdoi/265591554)
+
 This repository contains 4 files.
 
 ### Requisites 
