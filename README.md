@@ -4,7 +4,7 @@ This repository contains supporting code and data for the publication _"River se
 
 This repository is archived at point of submission at Zenodo - [![DOI](https://zenodo.org/badge/265591554.svg)](https://zenodo.org/badge/latestdoi/265591554)
 
-This repository contains 4 files.
+This repository contains 5 files.
 
 ### Requisites 
 
@@ -21,3 +21,7 @@ Code was written in `python v3.7.3` using the module [`LandLab`](https://pypi.or
 ### Data
 
 `higher_order_geochemistry.csv` contains the geochemical composition of higher-order river sediments sampled at 67 points across the Cairngorms and the surrounding region. Data is provided in mg/kg. Zero values and 'below-detection-limit' values were set to `NA`. The suffix `_rep_avg` indicates that the sample's values were by taking the arithmetic mean of two replicates. The geochemical variability between replicates was found to be negligible. Locality numbers and sample site coordinates are provided.
+
+### Supporting Video 
+
+`supporting_video.mov` is a timelapse video showing the sampling procedure used to extract sediment from higher order river channels.
