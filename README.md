@@ -1,6 +1,6 @@
 # Predicting fluvial sedimentary geochemistry
 
-This repository contains supporting code and data for the publication _"River sediment geochemistry as a conservative mixture of source regions: Observations and predictions from the Cairngorms, UK"_ (Under review; [preprint](https://eartharxiv.org/mf3s5))
+This repository contains supporting code and data for the publication _"River sediment geochemistry as a conservative mixture of source regions: Observations and predictions from the Cairngorms, UK"_ (published in [_Journal of Geophysical Research: Earth Surface_](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JF005700))
 
 This repository is archived at point of submission at Zenodo - [![DOI](https://zenodo.org/badge/265591554.svg)](https://zenodo.org/badge/latestdoi/265591554)
 
